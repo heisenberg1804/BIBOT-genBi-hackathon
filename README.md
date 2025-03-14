@@ -19,13 +19,9 @@
 ---
 
 ## 📂 Dataset
+- Blinkit Sales Dataset (E-commerce Grocery Sales) https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset
 
-**Blinkit Sales Dataset (E-commerce Grocery Sales)**:
-
-- `` → Order-level sales data.
-- `` → Product metadata (category, price, etc.).
-
-📌 **Additional datasets can be integrated seamlessly into GenBI.**
+📌 **Additional datasets can be integrated into GenBI.**
 
 ---
 
